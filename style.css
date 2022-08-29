@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: monospace;
+  }
+  
+  header {
+    height: 40px;
+    background: #000000;
+    
+  }
+  
+  main {
+    height: 800px;
+    background: url(https://th.bing.com/th/id/R.109e96f459b4a5e56b8f1dc0a9568280?rik=VqpMJVlZsNnm4g&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    overflow: auto;
+    margin: 0;
+    background-size: 100%;
+  }
+  
+  h1 {
+    padding-top: 100px;
+    color: black;
+    text-align: center;
+  }
+  
+  p {
+    color: white;
+  }
+  
+  ul {
+    list-style-type: none;
+    text-align: center;
+    padding-top: 100px;
+    margin: 0;
+  }
+  
+  
+  li {
+    color: black;
+    text-align: center;
+  }
+  
+  
+  
+  
+  
+  a {
+    text-decoration: none;
+    color: #d20049;
+  }
+  
+  footer{
+    height: 200px;
+    background: #000000;
+    
+  }
